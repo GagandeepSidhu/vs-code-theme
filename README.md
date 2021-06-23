@@ -2,7 +2,7 @@
   Black Lored Theme for VS Code
 </h1>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/GagandeepSidhu/vs-code-theme/master/images/demo.png)
 
 ## Installation via VS Code
 
