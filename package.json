@@ -1,0 +1,52 @@
+{
+    "name": "black-lored",
+    "displayName": "Black Lored",
+    "description": "A dark blue black lored theme for VS Code",
+    "publisher": "PogoYagami",
+    "author": {
+        "name": "Gagandeep Singh",
+        "email": "igagansidhu@gmail.com"
+      },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GagandeepSidhu/vs-code-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/GagandeepSidhu/vs-code-theme/issues"
+      },
+    "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "black-lored"
+      ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Lored",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Lored-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@upstatement/eslint-config": "^0.4.2",
+        "@upstatement/prettier-config": "^0.3.0",
+        "babel-eslint": "^10.0.3",
+        "eslint": "^6.3.0",
+        "eslint-config-prettier": "^6.2.0",
+        "prettier": "^1.18.2",
+        "vsce": "^1.66.0"
+      }
+}
